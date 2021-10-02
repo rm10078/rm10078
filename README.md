@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajib</h1>
 <h3 align="center">My name is Rajib Manna. I am a Electronic engineering student. I love to work with microcontroller.</h3>
 
-!(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator][I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 - 🔭 I’m currently working on **esp32.**
 
