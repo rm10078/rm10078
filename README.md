@@ -3,7 +3,7 @@
 
 !(https://raw.githubusercontent.com/rajib396/rajib396/main/github_banner.jpg)
 
-**About me**
+<h3>About me</h3>
 <p>add your about text here</p>
 
 - 🔭 I’m currently working on **esp32.**
