@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rajib</h1>
 <h3 align="center">My name is Rajib Manna. I am a Electronic engineering student. I love to work with microcontroller.</h3>
 
-- 🔭 I’m currently working on **esp32**
+- 🔭 I’m currently working on **esp32.**
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **java.**
 
 - 👨‍💻 All of my projects are available at [my_github_profile](my_github_profile)
 
-- 💬 Ask me about **arduio, esp, stm32**
+- 💬 Ask me about **arduio, esp, stm32.**
 
 - 📫 How to reach me **rm10078@gmail.com**
 
