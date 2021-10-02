@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **java.**
 
-- 👨‍💻 All of my projects are available at [my_github_profile](my_github_profile)
+- 👨‍💻 All of my projects are available at [my_github_profile](https://github.com/rm10078)
 
 - 💬 Ask me about **arduio, esp, stm32.**
 
