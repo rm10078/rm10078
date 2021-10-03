@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rm10078@gmail.com**
 
-- 📄 Know about my experiences [resum_link](resum_link)
+- 📄 Know about my experiences [resum_link](https://github.com/rm10078/rm10078/blob/main/Rajib%20Manna.pdf)
 
 - ⚡ Fun fact **Don't care about dc current polarity.**
 
