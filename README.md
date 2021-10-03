@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajib</h1>
 <h3 align="center">My name is Rajib Manna. I am a Electronic engineering student. I love to work with microcontroller.</h3>
 
-![rajib](https://raw.githubusercontent.com/rm10078/rm10078/main/github_banner_rm10078.jpg/?raw=true)
+![rajib](https://raw.githubusercontent.com/rm10078/rm10078/main/github_banner_rm10078.jpg)
 
 <h3>About me</h3>
 <p>add your about text here</p>
