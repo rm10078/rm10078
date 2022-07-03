@@ -6,9 +6,9 @@
 <h3>About me</h3>
 <p>add your about text here</p>
 
-- 🔭 I’m currently working on **esp32.**
+- 🔭 I’m currently working on **esp32,RP2040 C&C++ SDK.**
 
-- 🌱 I’m currently learning **java.**
+- 🌱 I’m currently learning **Django.**
 
 - 👨‍💻 All of my projects are available at [my_github_profile](https://github.com/rm10078)
 
