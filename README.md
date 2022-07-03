@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajib</h1>
-<h3 align="center">I am a Electronic engineering student. I love to work with microcontroller.</h3>
+<h3 align="center">I am a Electronics engineering student. I love to work with microcontroller.</h3>
 
 ![rajib](https://raw.githubusercontent.com/rm10078/rm10078/main/github_banner_rm10078.jpg)
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [my_github_profile](https://github.com/rm10078)
 
-- 💬 Ask me about **arduio, esp, stm32.**
+- 💬 Ask me about **arduio, esp, RP2040.**
 
 - 📫 How to reach me **rm10078@gmail.com**
 
