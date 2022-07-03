@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [resum_link](https://github.com/rm10078/rm10078/blob/main/Rajib%20Manna.pdf)
 
-- ⚡ Fun fact **Don't care about dc current polarity.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
