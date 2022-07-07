@@ -4,7 +4,7 @@
 ![rajib](https://raw.githubusercontent.com/rm10078/rm10078/main/github_banner_rm10078.jpg)
 
 <h3>About me</h3>
-<p>add your about text here</p>
+<p>🧒</p>
 
 - 🔭 I’m currently working on **esp32,RP2040 C&C++ SDK.**
 
