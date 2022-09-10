@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **esp32,RP2040 C&C++ SDK.**
 
-- 🌱 I’m currently learning **Django.**
+- 🌱 I’m currently learning **VLSI.**
 
 - 👨‍💻 All of my projects are available at [my_github_profile](https://github.com/rm10078)
 
