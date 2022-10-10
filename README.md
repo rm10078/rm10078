@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rm10078@gmail.com**
 
-- 📄 Know about my experiences [resum_link](https://github.com/rm10078/rm10078/blob/main/Rajib%20Manna.pdf)
+- 📄 Know about my experiences [resum_link](https://github.com/rm10078/rm10078/blob/main/Resume-3.pdf)
 
 
 
